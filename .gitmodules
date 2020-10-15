@@ -1,0 +1,3 @@
+[submodule "part1-bootstrap"]
+    path = projects/nucampsite
+    url = git@github.com:ChelWhite/part1-bootstrap.git
