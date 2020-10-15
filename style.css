@@ -1,0 +1,38 @@
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #e990a5, #c32e73, #ec971d);
+    color: white;
+    
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+}
+
+p, li {
+    color:#5b5b5be6;
+}
+
+h5, h6 {
+    color: #575859;
+}
+
+.card {
+    border: 1px solid #e990a5;
+}
+
+
+#headeremailSection {
+       color:#c32e73;
+}
+
+#aboutImage {
+    border-radius: 50%;
+  }
+
+.row-content {
+    padding: 50px 0;
+    min-height: 200px;
+}
+
