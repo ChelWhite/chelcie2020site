@@ -36,3 +36,10 @@ h5, h6 {
     min-height: 200px;
 }
 
+.imgPointer:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+
+  
