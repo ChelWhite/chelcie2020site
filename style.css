@@ -1,13 +1,15 @@
 .jumbotron {
     margin: 0;
     padding: 30px;
-    background-image: linear-gradient(to right, #e990a5, #c32e73, #ec971d);
-    color: white;
-    
+    color: black;
 }
 
+/*.navbar {
+    background-image: linear-gradient(to right, #ec971d, #c32e73, #e990a5);
+}*/
+
 h1 {
-    font-family: 'Sacramento', cursive;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 p, li {
@@ -15,16 +17,24 @@ p, li {
 }
 
 h5, h6 {
-    color: #575859;
+    color: #5bbfa2;
 }
 
 .card {
-    border: 1px solid #e990a5;
+    border: 0px;
+}
+
+.card-title {
+    color:#f9cfad;
+}
+
+.huerotate {
+    filter: hue-rotate(180deg);
 }
 
 
-#headeremailSection {
-       color:#c32e73;
+.header {
+       color:#6fa8dc;
 }
 
 #aboutImage {

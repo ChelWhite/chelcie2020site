@@ -1,6 +1,0 @@
-[submodule "part1-bootstrap"]
-    path = projects/nucampsite
-    url = git@github.com:ChelWhite/part1-bootstrap.git
-[submodule "ChelWhite/part1-bootstrap.git"]
-	path = ChelWhite/part1-bootstrap.git
-	url = git@github.com:ChelWhite/chelcie2020site.git
