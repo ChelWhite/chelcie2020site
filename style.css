@@ -18,6 +18,10 @@ h1 {
     font-family: 'Shadows Into Light', cursive;
 }
 
+.iconColor {
+   color: black;
+}
+
 p, li {
     color:#5b5b5be6;
 }
