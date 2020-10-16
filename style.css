@@ -58,5 +58,10 @@ h5, h6 {
     cursor: pointer;
 }
 
-
+.projectButton {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        }
+}
   
