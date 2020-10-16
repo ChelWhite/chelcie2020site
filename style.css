@@ -1,7 +1,7 @@
 .jumbotron {
     margin: 0;
-    padding: 5px;
-    color: black;
+    padding: 15px;
+    color: #6e6e6e;
 }
 
 .navbar {
@@ -19,7 +19,7 @@ h1 {
 }
 
 .iconColor {
-   color: black;
+   color: #6e6e6e;
 }
 
 p, li {
