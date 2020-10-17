@@ -1,0 +1,3 @@
+[submodule "BlancoCars"]
+	path = BlancoCars
+	url = https://github.com/ChelWhite/BlancoCars.git
