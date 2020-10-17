@@ -42,11 +42,6 @@ h5, h6 {
     filter: hue-rotate(189deg);
 }
 
-
-#aboutImage {
-    border-radius: 50%;
-  }
-
 .row-content {
     padding: 50px 0;
     min-height: 200px;
