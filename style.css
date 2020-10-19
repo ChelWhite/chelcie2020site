@@ -7,7 +7,7 @@
 .navbar {
     border: 0px;
     border-top: 6px solid;
-    border-image: linear-gradient(to right, #5bbfa2, rgb(0, 210, 255), #6fa8dc, rgb(58, 123, 213));
+    border-image: linear-gradient(to right, #5bbfa2 20%, rgb(0, 210, 255), #6fa8dc, rgb(58, 123, 213));
     border-image-slice: 1;
     color: white;
     margin: auto;
