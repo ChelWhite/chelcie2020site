@@ -1,7 +1,7 @@
 .jumbotron {
     margin: 0;
     padding: 15px;
-    color: #6e6e6e;
+    color: #3a3a3a;
 }
 
 .navbar {
@@ -15,11 +15,14 @@
 } 
 
 h1 {
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Vampiro One', cursive;
+    
 }
 
+
+
 .iconColor {
-   color: #6e6e6e;
+color: #3a3a3a;
 }
 
 p, li {
