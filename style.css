@@ -1,7 +1,7 @@
 .jumbotron {
     margin: 0;
     padding: 15px;
-    color:  #6da8dc;
+    color:  #4887d7;
 }
 
 .navbar {
@@ -22,7 +22,7 @@ h1 {
 
 
 .iconColor {
-color: #6da8dc;
+color: #4887d7;
 }
 
 p, li {
@@ -42,7 +42,7 @@ h5, h6 {
 }
 
 .huerotate {
-    filter: hue-rotate(209deg);
+    filter: hue-rotate(17deg);
 }
 
 .row-content {
